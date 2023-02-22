@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Devops, Aws, Scripting...etc**
 
 <h3 align="left">Connect with me:</h3> 
-[![Linkedin](https://img.shields.io/badge/IN-Divyakant%20Bariha-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dvkantb/)](https://www.linkedin.com/in/dvkantb/)
+
 
 [![Linkedin](https://img.shields.io/badge/IN-Divyakant%20Bariha-blue)
 
