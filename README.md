@@ -10,7 +10,7 @@
 
 [![Linkedin](https://img.shields.io/badge/IN-Divyakant%20Bariha-blue)
 
-[![Linkedin](https://img.shields.io/badge/-Ajay%20Tekam-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ajaytekam/)](https://www.linkedin.com/in/ajaytekam/)
+[![Linkedin](https://img.shields.io/badge/Divyakant%20Bariha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dvkantb/)]
 <p align="left">
 </p>
 
