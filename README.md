@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dvkant</h1>
 <h3 align="center">A passionate About AWS Devops </h3>
 
-- 🌱 I’m currently learning **Devops, Aws, Scripting...etc**
+- 🌱 **Devops, Aws, Scripting...etc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
