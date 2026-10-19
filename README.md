@@ -2,7 +2,7 @@
 
 <table width="100%">
   <tr>
-    <td width="72%" valign="top">
+    <td width="78%" valign="top">
       <h2>AWS • DevOps • Cloud Infrastructure • Automation</h2>
       <p>I enjoy working with cloud technologies, Linux, scripting, and infrastructure automation.</p>
       <ul>
