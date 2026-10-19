@@ -1,26 +1,34 @@
-# Hi, I'm Dvkant 👋
 
-### AWS • DevOps • Cloud Infrastructure • Automation
-
-I enjoy working with cloud technologies, Linux, scripting, and infrastructure automation.
-
-- ☁️ Exploring AWS and cloud infrastructure
-- ⚙️ Working with DevOps tools and automation
-- 🐧 Interested in Linux, Bash scripting, and containerization
-
----
-
-### Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dvkantb)
-
-### AWS Certification
-
-<a href="https://www.credly.com/badges/0edeac18-9604-431a-a2ba-ae70f6ef0460/public_url">
-  <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="110">
-</a>
-
-[View verified credential ↗](https://www.credly.com/badges/0edeac18-9604-431a-a2ba-ae70f6ef0460/public_url)
+<table>
+  <tr>
+    <td valign="top" width="65%">
+      <h1>Hi, I'm Dvkant 👋</h1>
+      <h3>AWS • DevOps • Cloud Infrastructure • Automation</h3>
+      <p>I enjoy working with cloud technologies, Linux, scripting, and infrastructure automation.</p>
+      <ul>
+        <li>☁️ Exploring AWS and cloud infrastructure</li>
+        <li>⚙️ Working with DevOps tools and automation</li>
+        <li>🐧 Interested in Linux, Bash scripting, and containers</li>
+      </ul>
+      <hr>
+      <h3>Connect with me</h3>
+      <a href="https://linkedin.com/in/dvkantb">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+    </td>
+    <td valign="top" width="35%" align="center">
+      <h3>AWS Certification</h3>
+      <a href="https://www.credly.com/badges/0edeac18-9604-431a-a2ba-ae70f6ef0460/public_url">
+        <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
+             alt="AWS Certified Cloud Practitioner"
+             width="120">
+      </a>
+      <p>
+        <a href="https://www.credly.com/badges/0edeac18-9604-431a-a2ba-ae70f6ef0460/public_url">View verified credential ↗</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
