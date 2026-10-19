@@ -55,7 +55,3 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-14532D?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/MySQL-24557A?style=for-the-badge&logo=mysql&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
-
----
-
-<sub>Building skills, automating workflows, and learning something new every day. 🚀</sub>
