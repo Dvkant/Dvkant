@@ -11,7 +11,7 @@
 <a href="https://www.credly.com/badges/0edeac18-9604-431a-a2ba-ae70f6ef0460/public_url">
   <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
        alt="AWS Certified Cloud Practitioner"
-       width="150">
+       width="60">
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
