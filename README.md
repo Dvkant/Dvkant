@@ -35,20 +35,14 @@
 
 ## Tech Stack
 
-### Cloud & DevOps
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-0D6EBD?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### Languages & Tools
-
 ![Bash](https://img.shields.io/badge/Bash-222222?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Git](https://img.shields.io/badge/Git-EA4C30?style=for-the-badge&logo=git&logoColor=white)
-
-### Databases & Other Tools
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-14532D?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/MySQL-24557A?style=for-the-badge&logo=mysql&logoColor=white)
