@@ -2,7 +2,7 @@
 
 <table width="100%">
   <tr>
-    <td width="78%" valign="top">
+    <td width="72%" valign="top">
       <h2>AWS • DevOps • Cloud Infrastructure • Automation</h2>
       <p>I enjoy working with cloud technologies, Linux, scripting, and infrastructure automation.</p>
       <ul>
@@ -15,7 +15,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
     </td>
-    <td width="40%" align="center" valign="middle">
+    <td width="38%" align="center" valign="middle">
       <h3>AWS Certification</h3>
       <a href="https://www.credly.com/badges/0edeac18-9604-431a-a2ba-ae70f6ef0460/public_url">
         <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
