@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Dvkant 👋</h1>
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="72%" valign="top">
       <h2>AWS • DevOps • Cloud Infrastructure • Automation</h2>
