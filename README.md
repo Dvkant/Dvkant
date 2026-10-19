@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td width="72%" valign="top">
+    <td width="68%" valign="top">
       <h2>AWS • DevOps • Cloud Infrastructure • Automation</h2>
       <p>I enjoy working with cloud technologies, Linux, scripting, and infrastructure automation.</p>
       <ul>
@@ -10,40 +10,39 @@
         <li>⚙️ Working with DevOps tools and automation</li>
         <li>🐧 Interested in Linux, Bash scripting, and containerization</li>
       </ul>
+      <h3>Connect with me</h3>
+      <a href="https://linkedin.com/in/dvkantb">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
     </td>
-    <td width="28%" align="center" valign="middle">
+    <td width="32%" align="center" valign="middle">
       <h3>AWS Certification</h3>
       <a href="https://www.credly.com/badges/0edeac18-9604-431a-a2ba-ae70f6ef0460/public_url">
         <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
              alt="AWS Certified Cloud Practitioner"
              width="120">
       </a>
-      <p>
-        <a href="https://www.credly.com/badges/0edeac18-9604-431a-a2ba-ae70f6ef0460/public_url">View verified credential ↗</a>
-      </p>
+      <p><a href="https://www.credly.com/badges/0edeac18-9604-431a-a2ba-ae70f6ef0460/public_url">View verified credential ↗</a></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dvkantb)
-
----
-
 ## Tech Stack
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-0D6EBD?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-![Bash](https://img.shields.io/badge/Bash-222222?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Git](https://img.shields.io/badge/Git-EA4C30?style=for-the-badge&logo=git&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-14532D?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-24557A?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="left">
+  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="48" height="48"></a>&nbsp;
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48"></a>&nbsp;
+  <a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="48" height="48"></a>&nbsp;
+  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48"></a>&nbsp;
+  <a href="https://nginx.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="48" height="48"></a>&nbsp;
+  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48"></a>&nbsp;
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48"></a>&nbsp;
+  <a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="48" height="48"></a>&nbsp;
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="58" height="48"></a>&nbsp;
+  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48"></a>&nbsp;
+  <a href="https://developer.hashicorp.com/terraform"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="48" height="48"></a>&nbsp;
+  <img src="https://img.shields.io/badge/CI%2FCD-Automation-2088FF?style=flat-square" alt="CI/CD" height="28">&nbsp;
+  <img src="https://img.shields.io/badge/Scripting-Bash%20%7C%20Python-4B5563?style=flat-square" alt="Scripting" height="28">
+</p>
