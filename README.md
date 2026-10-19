@@ -43,6 +43,5 @@
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="58" height="48"></a>&nbsp;
   <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48"></a>&nbsp;
   <a href="https://developer.hashicorp.com/terraform"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="48" height="48"></a>&nbsp;
-  <img src="https://img.shields.io/badge/CI%2FCD-Automation-2088FF?style=flat-square" alt="CI/CD" height="15">&nbsp;
-  <img src="https://img.shields.io/badge/Scripting-Bash%20%7C%20Python-4B5563?style=flat-square" alt="Scripting" height="15">
+  <img src="https://img.shields.io/badge/CI%2FCD-Automation-2088FF?style=flat-square" alt="CI/CD" height="28">&nbsp;
 </p>
